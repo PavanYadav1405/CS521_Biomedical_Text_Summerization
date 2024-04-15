@@ -45,6 +45,9 @@ We used ROGUE metrics for evalluating the 2 models with 100 randomly picked text
 
 We noticed an increase in precision and f1 scores for the model with knowledge graph embeddings.
 
+##You can find the main model finetuning in 521_LED.ipynb
+##You can find the knowledge graph creation in CS521_Knowledgegraph
+
 ## Future Work -
 
 We would like to continue working on the project and explore other techniques of creating and embedding knowledge graphs to improvwe the results further.
