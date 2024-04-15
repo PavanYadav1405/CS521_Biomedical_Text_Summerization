@@ -4,7 +4,7 @@ We put forward transformer-based approaches leveraging structured knowledge grap
 
 The SumPubMed medical summarization corpus [Gupta et al., 2021] served as the foundation for our model training and evaluation. This dataset contains rich annotations across over 32,000 biomedical publications, enabling robust analysis. Each included document is paired with two types of gold reference summaries: a full abstract from the original paper, as well as a condensed summary focusing solely on key findings and contributions.
 
-CLoning hte dataset -!git clone https://github.com/vgupta123/sumpubmed
+Cloning the dataset -!git clone https://github.com/vgupta123/sumpubmed
 
 ## Knowledge Graph Creation
 
