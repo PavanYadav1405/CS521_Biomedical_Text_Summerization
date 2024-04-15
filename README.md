@@ -4,7 +4,7 @@
 
 The SumPubMed medical summarization corpus [Gupta et al., 2021] served as the foundation for our model training and evaluation.
 
-CLoning hte dataset -!git clone https://github.com/vgupta123/sumpubmed
+Cloning the dataset -!git clone https://github.com/vgupta123/sumpubmed
 
 ## Knowledge Graph Creation
 
